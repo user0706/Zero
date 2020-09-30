@@ -17,3 +17,8 @@ By defining the label, the class is defined, ie. affiliation of sentences contai
 For a keyword, it is possible to enter **one or more words**. Each word must be separated by a punctuation mark (preferably a comma)
 ## Screenshots
 ![enter image description here](https://github.com/user0706/Zero/blob/master/ignore/example.png?raw=true)
+
+
+## To-Do
+- [ ] Duplicate keyword detection
+- [ ] Code adaptation for big data
